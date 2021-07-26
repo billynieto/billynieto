@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Billy Nieto
+- 👀 I’m interested in automated testing, but also automatically generating effective unit testing.  I have a solution for a Repository pattern model.
+- 🌱 I’m currently learning developing Android projects using Xamarin in Visual Studio.  I want to get into learning then-named Rosyln.
+- 💞️ I’m looking to collaborate on how to effectively incorporate my encryption algorithm onto practical solutions, for instance USB communications or hard drive encryption.
+- 📫 You can reach me at nieto_b@yahoo.com
